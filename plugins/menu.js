@@ -57,7 +57,7 @@ _Join Our Support Chanel 👋💚_ = *👉 https://whatsapp.com/channel/0029Valm
 
 ©𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 𝘿𝘼𝙎𝙎𝘼 𝙈𝘿
 `
-await conn.sendMessage(from,{image:{url:https://unitedcamps.in/Images/file_2135.jpg},caption:madeMenu},{quoted:mek})
+await conn.sendMessage(from,{image:{url:config.ALIVE_IMG},caption:madeMenu},{quoted:mek})
 
 }catch(e){
 console.log(e)
